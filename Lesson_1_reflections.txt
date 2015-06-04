@@ -1,0 +1,53 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The side by side view of the changes made it easy to spot the differences in the
+    file by giving you only the lines were differences occured. Otherwise you would 
+    spend much time looking at lines that had no changes in them at all.
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    By having acces to a history of all modifications you are able to go back in time
+    after any changes were made at any point in the document history and see those
+    changes that were made. You are also able to resotre the document back to those changes.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    When you manually decide when to commit you can commit at logical points of time.
+    Such at the completion of a feature, or correcting a bug in a function.
+    It would be wrong to commit ofter each one of code or to wait until many lines of code
+    are written that supports a feature but are not directly related.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    It appears that Google Docs has more of the intention of working on a single file 
+    and Git is used to manage a project where it would be necessary to track the 
+    changes in multiple files across 1 commit.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I can use git log to view the history of commits and the comment that was made to describe
+    the commit. I can then use diff to look at the lines that had been added and deleted
+    by that commit.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Using Git you have the ability to go back to an earlier version of your code if a bug gets introduced
+    or the code goes out of control. It is easy to return to a place that you know
+    the code was good.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I am going to use git for two main reasons. I will use it for the files I work on dury Udacity
+    courses as well as other programming work I will try to do. I am also going to see how I could
+    integrate Git into other work I do.
+
+The Concept map is good for mappin the ideas learned and how they are related to each other. Several
+types of connection are type-of, part-of and operates-on. A mind mapping tool would work well for this.
+

@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	When aGit repository is initialized a hidden folder called .git is created and is used to store all of the files in the version control system.
+	You need to do this to setup the Git system for use.
+
