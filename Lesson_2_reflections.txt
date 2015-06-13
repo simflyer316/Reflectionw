@@ -16,5 +16,9 @@ What are some situations when branches would be helpful in keeping your history 
 
 	Use branches to introduce a new feature or to use an expiremental version of the program.
 
+How do the diagrams help you visualize the branch structure?
+
+	The diagram allows you to see the parental view of each commit. It will also show you the flow of the branches and unreachable commits.
+
 	
 
