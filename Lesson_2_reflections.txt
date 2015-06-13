@@ -8,3 +8,9 @@ How is the staging area different from the working directory and the repository?
 	The staging area is a collection of files to be included in the next commit. Not all files
 	in the working directory may be included in the commit. This way you can organize your commit in a logical manner.
 
+How can you use the staging area to make sure you have one commit per logical change?
+	You can add only the  files you want in a commit to the staging area. You can even use git diff to see the changes between the working
+	directory and the staging area.
+
+	
+
