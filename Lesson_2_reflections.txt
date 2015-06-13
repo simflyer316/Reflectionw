@@ -20,5 +20,9 @@ How do the diagrams help you visualize the branch structure?
 
 	The diagram allows you to see the parental view of each commit. It will also show you the flow of the branches and unreachable commits.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging combines two branches into to one flow sorted by time stamp.
+
 	
 
