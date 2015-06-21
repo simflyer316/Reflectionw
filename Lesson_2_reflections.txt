@@ -24,5 +24,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	Merging combines two branches into to one flow sorted by time stamp.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatc merging makes the process easy to merge to branches together but the manual process allows to addres merge conflicts'and decide what code should be included in the merge.
+
 	
 
